@@ -1,7 +1,7 @@
 {
 "companyName": "Southern Taiwan University of Science and Technology-MES",
 "productName": "LudumDareJam46-Away",
-"productVersion": "0.1",
+"productVersion": "20200420.1",
 "dataUrl": "Output.data.unityweb",
 "wasmCodeUrl": "Output.wasm.code.unityweb",
 "wasmFrameworkUrl": "Output.wasm.framework.unityweb",
