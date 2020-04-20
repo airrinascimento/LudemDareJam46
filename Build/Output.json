@@ -1,0 +1,16 @@
+{
+"companyName": "Southern Taiwan University of Science and Technology-MES",
+"productName": "LudumDareJam46-Away",
+"productVersion": "0.1",
+"dataUrl": "Output.data.unityweb",
+"wasmCodeUrl": "Output.wasm.code.unityweb",
+"wasmFrameworkUrl": "Output.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
