@@ -2,4 +2,4 @@
 
 The final build of the Away project for LDJ46.
 
-Please note that we're not pros, we're just a group of students from Taiwan.
+Please note that we're not pros, we're just a group of students from Taiwan, and still learning how to code in Unity.
